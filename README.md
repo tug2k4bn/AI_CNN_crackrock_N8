@@ -40,6 +40,7 @@ Giao diện trực quan, thao tác dễ dàng
 Thời gian nhận diện nhanh, kết quả chính xác
 
 👥 THÀNH VIÊN
+
 NGÔ XUÂN TÙNG
 
 ĐOÀN VĂN CHƯƠNG
