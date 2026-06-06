@@ -22,12 +22,18 @@ Mô hình LeNet bao gồm:
 - 1 lớp đầu ra Sigmoid (phân loại nhị phân)
 
 
-# Cài đặt thư viện cần thiết
+## Cài đặt thư viện cần thiết
 pip install -r requirements.txt
-🚀 HƯỚNG DẪN SỬ DỤNG
+
+
+##🚀 HƯỚNG DẪN SỬ DỤNG
 bash
+
 Sao chép
+
 Chỉnh sửa
+
+
 # Huấn luyện mô hình (nếu cần)
 python train_model.py
 
